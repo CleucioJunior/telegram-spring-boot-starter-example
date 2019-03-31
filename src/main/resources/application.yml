@@ -1,7 +1,7 @@
 bot:
-	token: 744815052:AAGPCbq5bqM7pesHxrvBiUcK3_plljrfu_g
-	username: LeagueBot
-	riotApiToken: ?api_key=RGAPI-325fc7f0-8bca-4f43-a4f6-c4c1b0b80419
-	brRiotHost: https://br1.api.riotgames.com
-	riotSummonerByName: /lol/summoner/v4/summoners/by-name/
-	riotRankBySummoner: /lol/league/v4/positions/by-summoner/
+ token: 744815052:AAGPCbq5bqM7pesHxrvBiUcK3_plljrfu_g
+ username: LeagueBot
+ riotApiToken: ?api_key=RGAPI-325fc7f0-8bca-4f43-a4f6-c4c1b0b80419
+ brRiotHost: https://br1.api.riotgames.com
+ riotSummonerByName: /lol/summoner/v4/summoners/by-name/
+ riotRankBySummoner: /lol/league/v4/positions/by-summoner/
