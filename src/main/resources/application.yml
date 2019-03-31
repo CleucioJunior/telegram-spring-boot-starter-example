@@ -5,5 +5,3 @@ bot:
 	brRiotHost: https://br1.api.riotgames.com
 	riotSummonerByName: /lol/summoner/v4/summoners/by-name/
 	riotRankBySummoner: /lol/league/v4/positions/by-summoner/
- server:
- 	port=${PORT:8080}
