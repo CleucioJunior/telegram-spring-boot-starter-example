@@ -8,6 +8,7 @@ public class ExampleBotApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExampleBotApplication.class, args);
+		
 	}
 
 }
